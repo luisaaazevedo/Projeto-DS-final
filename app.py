@@ -130,3 +130,4 @@ else:
                     st.write(f"´{t['descricao']}")
         else:
             st.info("nenhuma tarefa concluida para este usuário.")
+
